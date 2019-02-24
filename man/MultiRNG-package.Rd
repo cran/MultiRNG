@@ -14,8 +14,8 @@ This package contains 11 main functions and 2 auxiliary functions. The methodolo
 \tabular{ll}{
 Package: \tab MultiRNG\cr
 Type: \tab Package\cr
-Version: \tab 1.2\cr
-Date: \tab 2019-02-22\cr
+Version: \tab 1.2.1\cr
+Date: \tab 2019-02-24\cr
 License: \tab GPL-2 | GPL-3\cr
 }}
 \author{
