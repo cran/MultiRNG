@@ -1,4 +1,4 @@
-05a67f9b565acf7143704bbf1cecfb8a *DESCRIPTION
+88c160849a8f0f72d14f6b9725d1b6e0 *DESCRIPTION
 8599901a7d5ea96d69a2d1559ea83a08 *NAMESPACE
 20bf62f3f519045575e266e586a37a9b *R/draw.correlated.binary.R
 8c7d6db25b2f862022419c62360c8fd5 *R/draw.d.variate.normal.R
@@ -13,7 +13,7 @@ e1ec0007609432fe95b90785122b659a *R/draw.inv.wishart.R
 340d030944f16df0128382cb30c4b347 *R/draw.wishart.R
 26bf378ba5e0359cabd74c53c7be6512 *R/generate.point.in.sphere.R
 1c569d74d278e3f18566fa5e2858ecd2 *R/loc.min.R
-92014ca92458dda0cf92e42e0255e023 *man/MultiRNG-package.Rd
+95470104335b0da779179c6d2b50f875 *man/MultiRNG-package.Rd
 194911961805b24323430b5fe6266896 *man/draw.correlated.binary.Rd
 25019864bfb88d57cf6b7f651d91af1e *man/draw.d.variate.normal.Rd
 2a6e9259d9503c9d6addf54c4d2057ae *man/draw.d.variate.t.Rd
